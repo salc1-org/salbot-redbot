@@ -41,7 +41,7 @@ class Userinfo(commands.Cog):
 
     @commands.group(invoke_without_command=True, aliases=['uinfo', 'ui'])
     @commands.has_any_role("Private Chat Access", "OG Role That Has No Purpose", "Moderator", "Administrator")
-    async def userinfo(self, ctx, *, user: typing.Optional[discord.Member]):
+    async def uinfo(self, ctx, *, user: typing.Optional[discord.Member]):
         """Get user info. Ex: [p]info @user"""
         if ctx.invoked_subcommand is None:
             if not user:
