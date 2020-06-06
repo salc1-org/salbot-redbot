@@ -1,0 +1,22 @@
+{
+    "author": [
+        "vcokltfre",
+        "Laundmo",
+        "Rain-py",
+        "CactusDuper"
+    ],
+    "bot_version": [
+        3,
+        3,
+        8
+    ],
+    "description": "Adds custom SalBot features, like the FAQ, TOS, and DGL commands/detection.",
+    "hidden": false,
+    "install_msg": "SalBot installed",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "SalBot V1 - but different and better",
+    "tags": [
+        "salbot"
+    ]
+}
