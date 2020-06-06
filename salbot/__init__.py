@@ -1,4 +1,4 @@
-
+from .userinfo import Userinfo
 
 def setup(bot):
-    pass
+    bot.add_cog(Userinfo())
