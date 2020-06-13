@@ -8,15 +8,15 @@
     "bot_version": [
         3,
         3,
-        8
+        9
     ],
-    "description": "Adds custom SalBot features, like the FAQ, TOS, and DGL commands/detection.",
+    "description": "Randomly says fuck you to MazeOfEncryption",
     "hidden": false,
-    "install_msg": "SalBot installed",
+    "install_msg": "Userinfo installed",
     "required_cogs": {},
     "requirements": [],
-    "short": "SalBot V1 - but different and better",
+    "short": "Fuck you, maze",
     "tags": [
-        "salbot"
+        "maze"
     ]
 }

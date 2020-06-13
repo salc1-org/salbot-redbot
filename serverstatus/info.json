@@ -1,0 +1,22 @@
+{
+    "author": [
+        "vcokltfre",
+        "Laundmo",
+        "Rain-py",
+        "CactusDuper"
+    ],
+    "bot_version": [
+        3,
+        3,
+        9
+    ],
+    "description": "Shows the server status for channels it's bound to.",
+    "hidden": false,
+    "install_msg": "ServerStatus installed",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "Show server statuses",
+    "tags": [
+        "serverstatus"
+    ]
+}

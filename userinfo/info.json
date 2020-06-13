@@ -1,0 +1,22 @@
+{
+    "author": [
+        "vcokltfre",
+        "Laundmo",
+        "Rain-py",
+        "CactusDuper"
+    ],
+    "bot_version": [
+        3,
+        3,
+        9
+    ],
+    "description": "Shows info about a user",
+    "hidden": false,
+    "install_msg": "Userinfo installed",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "Info about a user",
+    "tags": [
+        "uinfo"
+    ]
+}
