@@ -8,15 +8,15 @@
     "bot_version": [
         3,
         3,
-        8
+        9
     ],
-    "description": "Adds custom SalBot features, like the FAQ, TOS, and DGL commands/detection.",
+    "description": "Shows the server status for channels it's bound to.",
     "hidden": false,
-    "install_msg": "SalBot installed",
+    "install_msg": "ServerStatus installed",
     "required_cogs": {},
     "requirements": [],
-    "short": "SalBot V1 - but different and better",
+    "short": "Show server statuses",
     "tags": [
-        "salbot"
+        "serverstatus"
     ]
 }

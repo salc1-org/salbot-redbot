@@ -1,0 +1,22 @@
+{
+    "author": [
+        "vcokltfre",
+        "Laundmo",
+        "Rain-py",
+        "CactusDuper"
+    ],
+    "bot_version": [
+        3,
+        3,
+        9
+    ],
+    "description": "Randomly says fuck you to MazeOfEncryption",
+    "hidden": false,
+    "install_msg": "Userinfo installed",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "Fuck you, maze",
+    "tags": [
+        "maze"
+    ]
+}
